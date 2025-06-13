@@ -1,5 +1,5 @@
 # Kaggle-House_Prices
-Project on building regression models to predict house prices.
+Project on building linear regression models to predict house prices.
 This project is my submission for the House Prices Competition in Kaggle,[click here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) for the competition link.
 *** 
 This repository contains a Jupyter notebook for predicting house prices using the Kaggle House Prices dataset.
